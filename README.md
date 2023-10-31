@@ -1,4 +1,4 @@
-**Stock Price Prediction**
+*Stock Price Prediction🚀*
 
 ###Microsoft Lifetime Stocks Analysis
 This README provides instructions for running the code and outlines the necessary dependencies for analyzing the Microsoft Lifetime Stocks dataset. The code is provided in a Jupyter Notebook (.ipynb) format.
